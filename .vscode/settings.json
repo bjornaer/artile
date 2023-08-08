@@ -1,0 +1,13 @@
+{
+    "editor.rulers": [
+        105,
+        120
+    ],
+    "[python]": {
+        "editor.codeActionsOnSave": {
+          "source.organizeImports": true
+           }
+         },
+    "isort.args": ["--profile", "black"],
+    "editor.formatOnSave": true
+}
